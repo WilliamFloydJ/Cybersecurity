@@ -1,0 +1,25 @@
+﻿You start by taking your password or whatever text that's going to be encoded. You feed it into a scrambler with a key. 
+
+
+If your word was “StringChease” and your key was “Apple Sause” You move the first letter of the encoding message by 1, because A is the first in the alphabet so now S is T. Then P Which is the 16th so you move T to 0 but you add the numbers behind it, so since the last letter moved by 1 now you actually move T to !. and So on.
+
+
+Now I can see you're confused, that's because you can apply this to more than just letters, you can also use numbers and symbols. Its A-Z first, then 1-0, then !@#$%^&*()_+-={}|[]\:;<>?,./ 
+
+
+Obviously that would be impossible to remember the symbols, but if you look at your keyboard it starts above the 1 going right till you hit the key after 0 you start with the top symbol of the key and work down the keyboard till you hit the row next to the letter m.
+
+
+If you didn’t notice there’s a space after / so spaces have a value too.
+
+
+“I love cryptography!” is the text 
+And  “And I love Coding!!!” is the key
+
+
+Which gives you jwy0b.jp%->r(%/en}l-
+
+
+
+
+Applying the same idea but backwards will give you the same text.
